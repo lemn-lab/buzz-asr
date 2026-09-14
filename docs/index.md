@@ -8,7 +8,7 @@ hide:
 <p class="kicker">BuzzASR</p>
 <h1>100+ monolingual speech recognizers, one per language</h1>
 <p class="tag">We fine-tune Whisper-large-v3 into a separate model for each of 102 FLEURS languages, with two recipes: plain fine-tuning (SFT) and full fine-tuning with a native tokenizer (FFT). This site is a short technical overview of the project: the two recipes, why the tokenizer matters, and what the models achieve.</p>
-<p class="tag" style="margin-top:1rem"><strong><a href="https://arxiv.org/abs/2609.09554">Read the paper (arXiv)</a></strong> &nbsp;·&nbsp; <strong><a href="https://huggingface.co/BuzzASR">Get the models (Hugging Face)</a></strong> &nbsp;·&nbsp; <a href="https://github.com/lemn-lab/buzz-asr">Code</a></p>
+<p class="tag" style="margin-top:1rem"><strong><a href="https://arxiv.org/abs/2609.09554">Read the paper (arXiv)</a></strong> &nbsp;·&nbsp; <strong><a href="https://huggingface.co/BuzzASR">Get the models (Hugging Face)</a></strong> &nbsp;·&nbsp; <a href="https://github.com/lemn-lab/buzzasr-code">Code</a></p>
 </div>
 
 <div class="stats">
